@@ -1,6 +1,5 @@
-# This looks for when topic-1 or topic-2 are added to a repository.
 {
-  "subscriber-repo": {
+  "workflow-test": {
     "events": {
       "repository_edited": {
         "filter": {
